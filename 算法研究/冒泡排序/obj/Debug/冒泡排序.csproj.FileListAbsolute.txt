@@ -1,0 +1,6 @@
+D:\RiderProject\Study\算法研究\冒泡排序\bin\Debug\冒泡排序.exe
+D:\RiderProject\Study\算法研究\冒泡排序\bin\Debug\冒泡排序.pdb
+D:\RiderProject\Study\算法研究\冒泡排序\obj\Debug\冒泡排序.csprojAssemblyReference.cache
+D:\RiderProject\Study\算法研究\冒泡排序\obj\Debug\冒泡排序.csproj.CoreCompileInputs.cache
+D:\RiderProject\Study\算法研究\冒泡排序\obj\Debug\冒泡排序.exe
+D:\RiderProject\Study\算法研究\冒泡排序\obj\Debug\冒泡排序.pdb
