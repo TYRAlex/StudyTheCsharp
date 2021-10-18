@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPattern", "DesignPattern\DesignPattern.csproj", "{D9ED8F40-4108-43DE-8994-63407618BB75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer Pattern", "Observer Pattern\Observer Pattern.csproj", "{29F0E2E0-D5AB-4EDE-B7AA-7730EEB6C445}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9ED8F40-4108-43DE-8994-63407618BB75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9ED8F40-4108-43DE-8994-63407618BB75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9ED8F40-4108-43DE-8994-63407618BB75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9ED8F40-4108-43DE-8994-63407618BB75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29F0E2E0-D5AB-4EDE-B7AA-7730EEB6C445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29F0E2E0-D5AB-4EDE-B7AA-7730EEB6C445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29F0E2E0-D5AB-4EDE-B7AA-7730EEB6C445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29F0E2E0-D5AB-4EDE-B7AA-7730EEB6C445}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
