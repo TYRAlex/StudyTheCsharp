@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "工厂模式研究", "工厂模式研究\工厂模式研究.csproj", "{878B709E-BA3A-4A36-989C-69D204BEA0F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "工厂方法模式", "工厂方法模式\工厂方法模式.csproj", "{296C215C-3C71-4C0A-B65C-663ECDF7AFA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "简单工厂模式", "简单工厂模式\简单工厂模式.csproj", "{D7E3D28C-94B0-4FF7-9C36-3511FE39526C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{878B709E-BA3A-4A36-989C-69D204BEA0F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{878B709E-BA3A-4A36-989C-69D204BEA0F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{878B709E-BA3A-4A36-989C-69D204BEA0F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{878B709E-BA3A-4A36-989C-69D204BEA0F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{296C215C-3C71-4C0A-B65C-663ECDF7AFA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{296C215C-3C71-4C0A-B65C-663ECDF7AFA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{296C215C-3C71-4C0A-B65C-663ECDF7AFA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{296C215C-3C71-4C0A-B65C-663ECDF7AFA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7E3D28C-94B0-4FF7-9C36-3511FE39526C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7E3D28C-94B0-4FF7-9C36-3511FE39526C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7E3D28C-94B0-4FF7-9C36-3511FE39526C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7E3D28C-94B0-4FF7-9C36-3511FE39526C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+D:\RiderProject\工厂模式研究\工厂模式研究\obj\Debug\工厂模式研究.csprojAssemblyReference.cache
+D:\RiderProject\工厂模式研究\工厂模式研究\obj\Debug\工厂模式研究.csproj.CoreCompileInputs.cache
+D:\RiderProject\工厂模式研究\工厂模式研究\bin\Debug\抽象工厂模式.exe
+D:\RiderProject\工厂模式研究\工厂模式研究\bin\Debug\抽象工厂模式.pdb
+D:\RiderProject\工厂模式研究\工厂模式研究\obj\Debug\抽象工厂模式.exe
+D:\RiderProject\工厂模式研究\工厂模式研究\obj\Debug\抽象工厂模式.pdb
