@@ -1,0 +1,6 @@
+D:\RiderProject\SocketServerTest\SocketServerTest\bin\Debug\SocketServerTest.exe
+D:\RiderProject\SocketServerTest\SocketServerTest\bin\Debug\SocketServerTest.pdb
+D:\RiderProject\SocketServerTest\SocketServerTest\obj\Debug\SocketServerTest.csprojAssemblyReference.cache
+D:\RiderProject\SocketServerTest\SocketServerTest\obj\Debug\SocketServerTest.csproj.CoreCompileInputs.cache
+D:\RiderProject\SocketServerTest\SocketServerTest\obj\Debug\SocketServerTest.exe
+D:\RiderProject\SocketServerTest\SocketServerTest\obj\Debug\SocketServerTest.pdb
