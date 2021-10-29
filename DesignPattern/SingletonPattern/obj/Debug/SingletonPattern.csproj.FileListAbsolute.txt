@@ -1,0 +1,6 @@
+D:\WorkSpace\StudyTheCSharp\StudyTheCsharp\DesignPattern\SingletonPattern\bin\Debug\SingletonPattern.exe
+D:\WorkSpace\StudyTheCSharp\StudyTheCsharp\DesignPattern\SingletonPattern\bin\Debug\SingletonPattern.pdb
+D:\WorkSpace\StudyTheCSharp\StudyTheCsharp\DesignPattern\SingletonPattern\obj\Debug\SingletonPattern.csprojAssemblyReference.cache
+D:\WorkSpace\StudyTheCSharp\StudyTheCsharp\DesignPattern\SingletonPattern\obj\Debug\SingletonPattern.csproj.CoreCompileInputs.cache
+D:\WorkSpace\StudyTheCSharp\StudyTheCsharp\DesignPattern\SingletonPattern\obj\Debug\SingletonPattern.exe
+D:\WorkSpace\StudyTheCSharp\StudyTheCsharp\DesignPattern\SingletonPattern\obj\Debug\SingletonPattern.pdb
