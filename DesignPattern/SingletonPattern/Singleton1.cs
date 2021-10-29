@@ -21,9 +21,6 @@ namespace SingletonPattern
                     _singleton=new Singleton1();
                 }
             }
-
-            
-
             return _singleton;
         }
     }
