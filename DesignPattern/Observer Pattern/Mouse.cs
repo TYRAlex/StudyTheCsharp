@@ -19,12 +19,23 @@ namespace Observer_Pattern
             Cat.CatComing += MouseAction;
         }
 
+        public void TestConsole()
+        {
+            Console.WriteLine("this is the test func");
+            
+        }
+
         public Mouse(string name, int age)
         {
             _name = name;
             _age = age;
             Console.WriteLine("这个小白鼠"+name+"的年龄是："+age);
             Cat.CatComing += MouseAction;
+            if (_name.Equals("comming"))
+            {
+                Console.WriteLine("The status is comming now~ ");
+                Console.ReadKey();
+            }
         }
 
         public virtual void MouseAction()
