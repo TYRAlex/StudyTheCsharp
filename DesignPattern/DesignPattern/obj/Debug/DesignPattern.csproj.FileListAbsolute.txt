@@ -1,0 +1,6 @@
+D:\WorkSpace\StudyTheCSharp\StudyTheCsharp\DesignPattern\DesignPattern\bin\Debug\DesignPattern.exe
+D:\WorkSpace\StudyTheCSharp\StudyTheCsharp\DesignPattern\DesignPattern\bin\Debug\DesignPattern.pdb
+D:\WorkSpace\StudyTheCSharp\StudyTheCsharp\DesignPattern\DesignPattern\obj\Debug\DesignPattern.csprojAssemblyReference.cache
+D:\WorkSpace\StudyTheCSharp\StudyTheCsharp\DesignPattern\DesignPattern\obj\Debug\DesignPattern.csproj.CoreCompileInputs.cache
+D:\WorkSpace\StudyTheCSharp\StudyTheCsharp\DesignPattern\DesignPattern\obj\Debug\DesignPattern.exe
+D:\WorkSpace\StudyTheCSharp\StudyTheCsharp\DesignPattern\DesignPattern\obj\Debug\DesignPattern.pdb
